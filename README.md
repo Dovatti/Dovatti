@@ -1,6 +1,6 @@
 ### Hi there, I'm Mattia - aka [Dovatti] 👋
 
-## I'm an Italian Husband, Developer, and Military
+## I'm an Italian Developer and Designer
 - 🔭 I’m currently working on database
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate with no one
